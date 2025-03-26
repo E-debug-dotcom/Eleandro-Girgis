@@ -5,4 +5,4 @@
 🔹 Currently building a **Fleet Vehicle Management System** in PowerApps  
 🔹 Exploring **JIRA Forge Add-ons** for IT service tracking  
 
-📫 Reach me at: egirgis@outlook.com | [LinkedIn]([https://www.linkedin.com/in/eleandro-g-224029107/])  
+📫 Reach me at: egirgis@outlook.com | [LinkedIn](https://www.linkedin.com/in/eleandro-g-224029107/)  
